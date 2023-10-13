@@ -1,65 +1,23 @@
 {
   "user": [
     {
-      "id": "adminuser",
-      "name": "Nihira",
-      "password": "admin",
-      "email": "nihiratechiees@gmail.com",
-      "phone": "8989898989",
-      "country": "usa",
-      "address": "",
-      "role": "admin",
-      "gender": "female"
-    },
-    {
-      "id": "ntuser",
-      "name": "Fullname",
-      "password": "ntuser",
-      "email": "email@email.com",
-      "phone": "56778889989",
-      "country": "singapore",
-      "address": "address1\naddrees2",
-      "role": "user",
-      "gender": "male"
-    },
-    {
-      "id": "ryyjjdgj",
-      "name": "Parsa eftekharmansh",
-      "password": "apsotah@12A",
-      "email": "Parsa10007@gmail.com",
-      "phone": "0912 613 8190",
-      "country": "india",
-      "address": "پیروزی-نبردشمالی-قیام شمالی-کوچه چهارم غربی-پلاک 12-واحد5",
-      "gender": "male"
-    },
-    {
       "id": "Fatemeh13",
       "name": "Fatemeh",
       "password": "Fatemeh13",
       "email": "Fatemeh13@gmail.com",
       "phone": "0912 613 8190",
-      "country": "india",
+      "country": "Iran",
       "address": "پیروزی-نبردشمالی-قیام شمالی-کوچه چهارم غربی-پلاک 12-واحد5",
       "gender": "female"
     },
     {
-      "id": "Parsa2",
+      "id": "Parsa_efte",
       "name": "Parsa eftekharmansh",
       "password": "Parsa123",
       "email": "Parsa10007@gmail.com",
-      "phone": "0912 613 8190",
-      "country": "india",
+      "phone": "0901 676 1476",
+      "country": "Iran",
       "address": "پیروزی-نبردشمالی-قیام شمالی-کوچه چهارم غربی-پلاک 12-واحد5",
-      "gender": "female"
-    },
-    {
-      "id": "parsa12",
-      "name": "eftekharmanesh",
-      "password": "Parsa123",
-      "email": "Parsa10007@gmail.com",
-      "phone": "09126138190",
-      "country": "usa",
-      "address": "پیروزی-نبردشمالی-قیام شمالی-کوچه چهارم غربی-پلاک 12-واحد5\nواحد5",
       "gender": "male"
     },
     {
