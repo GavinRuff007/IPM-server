@@ -7,7 +7,7 @@
       "email": "Fatemeh13@gmail.com",
       "phone": "0912 613 8190",
       "country": "Iran",
-      "address": "پیروزی-نبردشمالی-قیام شمالی-کوچه چهارم غربی-پلاک 12-واحد5",
+      "address": "",
       "gender": "female"
     },
     {
@@ -21,30 +21,10 @@
       "gender": "male"
     },
     {
-      "id": "amin12",
-      "name": "amin",
-      "password": "amin123",
-      "email": "amin@gmail.com",
-      "phone": "",
-      "country": "usa",
-      "address": "",
-      "gender": "male"
-    },
-    {
-      "id": "panisa12",
-      "name": "Panisa",
-      "password": "panisa12",
-      "email": "parsa10007@gmail.com",
-      "phone": "",
-      "country": "india",
-      "address": "57A/05 Parisian Ramp",
-      "gender": "male"
-    },
-    {
-      "id": "Parsa202089",
-      "name": "Parsa",
-      "password": "khar1",
-      "email": "parsa10007@gmail.com",
+      "id": "admin",
+      "name": "admin",
+      "password": "bp:89~L",
+      "email": "admin@gmail.com",
       "phone": "",
       "country": "Iran",
       "address": "57A/05 Parisian Ramp",
